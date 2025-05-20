@@ -1,6 +1,6 @@
 # README
 
-We release the code for the paper titled "Cryptocurrencies in the Balance Sheet: Insights from (Micro)Strategy - Bitcoin Interactions".
+We release the code for the paper titled "_Cryptocurrencies in the Balance Sheet: Insights from (Micro)Strategy - Bitcoin Interactions_".
 
 To **reproduce the results**, first set the working directory to the project folder, then run the `.Rhistory` file to execute the recorded R commands.
 
