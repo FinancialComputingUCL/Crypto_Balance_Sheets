@@ -1,19 +1,19 @@
-# Cryptocurrencies in the Balance Sheet: Insights from (Micro)Strategy - Bitcoin Interactions
+# README
 
 We release the code for the paper titled "Cryptocurrencies in the Balance Sheet: Insights from (Micro)Strategy - Bitcoin Interactions".
 
-# Authors
+### Abstract
 
-- Sabrina Aufiero
-- Antonio Briola
-- Tesfaye Salarin
-- Fabio Caccioli
-- Silvia Bartolucci
-- Tomaso Aste
+This paper investigates the evolving link between cryptocurrency and equity markets in the context of the recent wave of corporate Bitcoin (BTC) treasury strategies. We assemble a dataset of $39$ publicly listed firms holding BTC, from their first acquisition through April $2025$. Using daily logarithmic returns, we first document significant positive co-movements via Pearson correlations and single factor model regressions, discovering an average BTC beta of $0.62$, and isolating $12$ companies, including _Strategy_ (formerly _MicroStrategy_, MSTR), exhibiting a beta exceeding $1$. We then classify firms into three groups reflecting their exposure to BTC, liquidity, and return co-movements. We use transfer entropy (TE) to capture the direction of information flow over time. Transfer entropy analysis consistently identifies BTC as the dominant information driver, with brief, announcement-driven feedback from stocks to BTC during major financial events. Our results highlight the critical need for dynamic hedging ratios that adapt to shifting information flows. These findings provide important insights for investors and managers regarding risk management and portfolio diversification in a period of growing integration of digital assets into corporate treasuries.
 
-# Abstract
+### Authors
 
-This paper investigates the evolving link between cryptocurrency and equity markets in the context of the recent wave of corporate Bitcoin (BTC) treasury strategies. We assemble a dataset of $39$ publicly listed firms holding BTC, from their first acquisition through April $2025$. Using daily logarithmic returns, we first document significant positive co-movements via Pearson correlations and single factor model regressions, discovering an average BTC beta of $0.62$, and isolating $12$ companies, including \textit{Strategy} (formerly \textit{MicroStrategy}, MSTR), exhibiting a beta exceeding $1$. We then classify firms into three groups reflecting their exposure to BTC, liquidity, and return co-movements. We use transfer entropy (TE) to capture the direction of information flow over time. Transfer entropy analysis consistently identifies BTC as the dominant information driver, with brief, announcement-driven feedback from stocks to BTC during major financial events. Our results highlight the critical need for dynamic hedging ratios that adapt to shifting information flows. These findings provide important insights for investors and managers regarding risk management and portfolio diversification in a period of growing integration of digital assets into corporate treasuries.
+- Sabrina Aufiero (University College London - sabrina.aufiero.22@ucl.ac.uk)
+- Antonio Briola (University College London)
+- Tesfaye Salarin (University of Trento, University College London)
+- Fabio Caccioli (University College London)
+- Silvia Bartolucci (University College London)
+- Tomaso Aste (University College London)
 
 # License
 
